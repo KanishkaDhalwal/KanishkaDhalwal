@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m KanishkaDhalwal
-- 🌱 I’m currently learning currently learning :-
+- 🌱 I’m currently learning :-
 Operating systems            -        ( Windows 11, Linux,Unix)
 Programming Languages        -        (C/ C++, SQL ,Python , Javascript) 
 Internet Technologies        -        (HTML, JavaScript, JQuery, Ajax, AngularJS, Web- Services (SOAP&REST))
