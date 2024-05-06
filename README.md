@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/tusharsaini1508/Python_/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
-<h1 align="center">Hi 👋, I'm Kanishka Dhaalwal</h1>
+<h1 align="center">Hi 👋, I'm Kanishka Dhalwal</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/KanishkaDhalwal/Hotel-Management-Project/raw/main/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
